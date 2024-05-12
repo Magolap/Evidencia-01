@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439015"
+  },
+  "equipos": [
+    {
+      "$oid": "507f1f77bcf86cd799439011"
+    },
+    {
+      "$oid": "507f1f77bcf86cd799439016"
+    }
+  ],
+  "fecha": {
+    "$date": "2024-05-10T19:00:00.000Z"
+  },
+  "lugar": "Estadio Nacional",
+  "resultado": {
+    "$oid": "507f1f77bcf86cd799439017"
+  }
+}]

@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "507f191e810c19729de860ea"
+  },
+  "nombre": "Juan Pérez",
+  "edad": 30,
+  "nacionalidad": "Colombiana",
+  "posición": "Delantero",
+  "equipo": {
+    "$oid": "507f191e810c19729de860eb"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439111"
+  },
+  "nombre": "Carlos López",
+  "edad": 24,
+  "nacionalidad": "Colombiana",
+  "posición": "Mediocampista",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439112"
+  },
+  "nombre": "Miguel Torres",
+  "edad": 27,
+  "nacionalidad": "Colombiana",
+  "posición": "Defensor",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439113"
+  },
+  "nombre": "Sergio Ramírez",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "posición": "Portero",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439114"
+  },
+  "nombre": "Andrés Rojas",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "posición": "Delantero",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439115"
+  },
+  "nombre": "David Martínez",
+  "edad": 23,
+  "nacionalidad": "Colombiana",
+  "posición": "Defensor",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439116"
+  },
+  "nombre": "Felipe Castro",
+  "edad": 25,
+  "nacionalidad": "Colombiana",
+  "posición": "Mediocampista",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439117"
+  },
+  "nombre": "Gustavo Álvarez",
+  "edad": 29,
+  "nacionalidad": "Colombiana",
+  "posición": "Delantero",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439118"
+  },
+  "nombre": "Iván Correa",
+  "edad": 21,
+  "nacionalidad": "Colombiana",
+  "posición": "Defensor",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439119"
+  },
+  "nombre": "Jorge Gutiérrez",
+  "edad": 20,
+  "nacionalidad": "Colombiana",
+  "posición": "Mediocampista",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439120"
+  },
+  "nombre": "Luis Díaz",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "posición": "Portero",
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  }
+}]

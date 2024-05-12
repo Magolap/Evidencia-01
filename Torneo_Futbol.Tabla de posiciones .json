@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439019"
+  },
+  "equipo": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "partidos_jugados": 10,
+  "partidos_ganados": 7,
+  "partidos_empatados": 2,
+  "partidos_perdidos": 1,
+  "goles_favor": 22,
+  "goles_contra": 10,
+  "puntos": 23
+}]

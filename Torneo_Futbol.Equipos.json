@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "nombre": "Los Halcones",
+  "numero_jugadores": 11
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439021"
+  },
+  "nombre": "El condor",
+  "numero_jugadores": 11
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439031"
+  },
+  "nombre": "La furia fugaz",
+  "numero_jugadores": 11
+}]

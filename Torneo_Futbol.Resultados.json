@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439018"
+  },
+  "goles_equipo_1": 2,
+  "goles_equipo_2": 3,
+  "ganador": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "perdedor": {
+    "$oid": "507f1f77bcf86cd799439016"
+  },
+  "empate": false
+}]
